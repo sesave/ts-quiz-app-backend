@@ -19,8 +19,15 @@ Welcome to the Chat Quiz App Backend repository! This backend module, developed 
 $ yarn
 ```
 
-### Start the server:
+# Running the app
 
-```console
-$ yarn start
+```bash
+# development
+$ yarn run start
+
+# watch mode
+$ yarn run start:dev
+
+# production mode
+$ yarn run start:prod
 ```
