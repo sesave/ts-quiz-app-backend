@@ -2,7 +2,7 @@
 
 ## Summary
 
-Welcome to the Chat Quiz App Backend repository! This backend module, developed using Node.js with Express, powers the interactive and dynamic features of the Chat Quiz App.
+Welcome to the Chat Quiz App repository! This backend module, developed using Node.js with Express, powers the interactive and dynamic features of the Chat Quiz App.
 
 ## Tecnologies
 - Nodejs
